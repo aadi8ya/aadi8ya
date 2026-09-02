@@ -1,17 +1,32 @@
-# Hii👋 I'm Aditya
+<h1 align="center">Hii 👋, I'm Aditya</h1>
+<p align="center">
+  <b>Data Science & Software Engineering Enthusiast</b>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-287a56285)
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org)
-[![Seaborn](https://img.shields.io/badge/Seaborn-777777?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+---
 
-## 📊 GitHub Stats:
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadi8ya&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi8ya&layout=compact&theme=dark)
+### 🛠️ Languages & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,pandas,numpy,git,github,vscode,pycharm,notion" />
+  </a>
+</p>
+
+**Machine Learning & Statistics:** `Scikit-Learn` • `Matplotlib` • `Seaborn` • `SciPy` • `Statistical Analysis`
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi8ya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi8ya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+</p>
+
+---
